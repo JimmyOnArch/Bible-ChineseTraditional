@@ -20,6 +20,4 @@ All Rights Reserved
 
 You are welcomed to fork it.
 
-This application is not for commercial use. 
-
-Please feel free to contact.
+This application is not for commercial use. Please feel free to contact.
