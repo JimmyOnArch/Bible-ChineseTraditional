@@ -1,0 +1,52 @@
+<!DOCTYPE HTML>
+ <html>
+    <head>
+        <% include main_header %>
+
+	</head>
+    <body>
+        <!-- header -->
+        <% include main_menu %>
+        <!-- header -->
+
+        <!-- main -->
+        <main role="main-inner-wrapper" class="container">
+            <!-- work details -->
+            <div class="work-details">
+                <div class="row">
+                    <div class="col-xs-12 col-sm-12 col-md-2">
+                        <header role="work-title">
+                            <h2 id="book_name">Project Name</h2>
+                            <a id="book_chapter" href="#">Visit online</a>
+                        </header>
+                    </div>
+                    <div class="col-xs-12 col-sm-12 col-md-10">
+                        <section id="book_content">
+                        </section>
+                    </div>
+                </div>
+                <div class="clearfix"></div>
+                <div id="return_button_group" class="btn-group-vertical">
+                    <button type="button" class="btn btn-secondary" id="return_button_book"><i class="fa fa-home"></i></button>
+                    <button type="button" class="btn btn-secondary" id="return_button_chapter"><i class="fa fa-book"></i></button>
+                </div>
+            </div>
+            <!-- work details -->
+        </main>
+    	<!-- main -->
+
+        <!-- footer -->
+        <% include main_footer %>
+        <!-- footer -->
+
+        <% include main_script %>
+        <script src="/js/index.js" type="text/javascript"></script>
+        <script src="/js/book_content.js" type="text/javascript"></script>
+        <script>
+            window.onload = function (){
+                init();
+            }
+        </script>
+    </body>
+
+</html>

@@ -1,0 +1,40 @@
+.btn {
+    font-size: 34px;
+    font-weight: 600;
+}
+
+.work-details p {
+    font-size: 30px;
+    color: #4c4747;
+    line-height: 30px;
+    margin-bottom: 12px;
+    font-weight: 1000;
+}
+
+.work-details p:hover {
+	background-color: #fbf654;
+	font-size: 40px;
+	line-height: 40px;
+}
+
+.work-details header h2 {
+	font-size: 35px;
+    font-weight: 800;
+}
+
+.work-details header a {
+	font-size: 35px;
+    font-weight: 800;
+}
+
+#return_button_group {
+	position: fixed;
+    bottom: 25px;
+    left: 25px;
+    opacity: 0.8;
+}
+
+#return_button_group > .btn{
+    margin-bottom: 5px;
+    border-radius: 50%;
+}
