@@ -3,6 +3,8 @@
 
 This is an internet free web based Bible app in Traditional Chinese.
 
+Praise and glorify the Lord.
+
 # Environment 
 1. node.js version 10.15.3 LTS
 2. Windows 8+ (or other OS supports Node.js)
