@@ -7,7 +7,7 @@ Praise and glorify the Lord.
 
 # Environment 
 1. node.js version 10.15.3 LTS
-2. Windows 8+ (or other OS supports Node.js)
+2. Windows 7+ (or other OS supports Node.js)
 3. Chrome browser
 
 # How to run on Windows PC
