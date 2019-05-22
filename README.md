@@ -1,5 +1,6 @@
 # Bible-TW
 這是一個網頁版可以離線使用的繁體中文聖經APP.
+
 This is an internet free web based Bible app in Traditional Chinese.
 
 # Environment 
@@ -18,4 +19,7 @@ Copyright (c) J&S workshop
 All Rights Reserved
 
 You are welcomed to fork it.
-This application is not for commercial use. Please feel free to contact.
+
+This application is not for commercial use. 
+
+Please feel free to contact.
