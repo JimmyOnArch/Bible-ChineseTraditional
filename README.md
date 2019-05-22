@@ -1,11 +1,13 @@
 # Bible-TW
+這是一個網頁版可以離線使用的繁體中文聖經APP.
+This is an internet free web based Bible app in Traditional Chinese.
 
-This app runs with following environment: 
+# Environment 
 1. node.js version 10.15.3 LTS
 2. Windows 8+ (or other OS supports Node.js)
 3. Chrome browser
 
-How to launch this app on Windows PC?
+# How to run on Windows PC
 1. Make sure node.js is installed on your PC.
 2. Run npm-start.bat.
 3. Open http://localhost with Chrome.
